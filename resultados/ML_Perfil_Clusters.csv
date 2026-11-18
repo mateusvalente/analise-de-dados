@@ -1,0 +1,19 @@
+﻿cluster,caracteristica,desvio_padrao,ordem
+Grupo 1,preco_produto,0.5441972601602764,1
+Grupo 2,preco_produto,0.6841090616377004,1
+Grupo 3,preco_produto,-1.062211639323515,1
+Grupo 1,valor_frete,0.06131918426542227,2
+Grupo 2,valor_frete,-0.06637544345638119,2
+Grupo 3,valor_frete,-0.011846052179351904,2
+Grupo 1,desconto_pct,0.030035900112656392,3
+Grupo 2,desconto_pct,0.00845918814270457,3
+Grupo 3,desconto_pct,-0.0366020201655354,3
+Grupo 1,quantidade_cliques,0.921194665795835,4
+Grupo 2,quantidade_cliques,-0.6755875990873209,4
+Grupo 3,quantidade_cliques,-0.41969222693568276,4
+Grupo 1,tempo_site_seg,0.9310642695435022,5
+Grupo 2,tempo_site_seg,-0.7135533911738191,5
+Grupo 3,tempo_site_seg,-0.4010900945889996,5
+Grupo 1,itens_carrinho,0.6304959937594038,6
+Grupo 2,itens_carrinho,0.30196208520763684,6
+Grupo 3,itens_carrinho,-0.8618364301827963,6
